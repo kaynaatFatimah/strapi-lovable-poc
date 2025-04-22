@@ -19,6 +19,7 @@
     "@strapi/plugin-cloud": "5.12.5",
     "@strapi/plugin-users-permissions": "5.12.5",
     "@strapi/strapi": "5.12.5",
+    "9-t-9-store-cms": "file:",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
     "mysql2": "3.9.8",
